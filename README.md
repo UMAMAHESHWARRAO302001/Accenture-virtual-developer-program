@@ -46,4 +46,4 @@ https://www.theforage.com/virtual-internships/program-divisions/PxenP4rHNE6Bh4nQ
 2. Data and privacy (Point out what data are considered sensitive personal data and advise the client on how to proceed with the planned machine learning algorithm)
 
 ## My Certificate of Completion
-![](https://github.com/UMAMAHESHWARRAO302001/Accenture-virtual-developer-program/blob/main/Certificate%20of%20completion.pdf)
+![](https://github.com/UMAMAHESHWARRAO302001/Accenture-virtual-developer-program/blob/main/Certificate%20of%20Completion1.png)
